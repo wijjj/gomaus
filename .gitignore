@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+
+# No Visual Studio Code meta file directory and content
+.vscode
+gomaus
